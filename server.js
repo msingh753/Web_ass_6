@@ -5,7 +5,7 @@
 * of this assignment has been copied manually or electronically from any other source
 * (including 3rd party web sites) or distributed to other students.
 *
-* Name: Manjot Singh Student ID: 171797210 Date: 08-04-2023
+* Name: Manjot Singh Student ID: 171797210 
 *
 * Online (Cyclic) Link:
 *
